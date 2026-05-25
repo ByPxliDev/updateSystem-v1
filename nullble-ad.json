@@ -1,0 +1,7 @@
+{
+  "ad-link":      "/help",
+  "ad-alt":       "Añade tu propio anuncio",
+  "ad-image":     "https://cdn.ejemplo.com/banner-600x200.jpg",
+  "ad-blank":     true,
+  "ad-limit-day": "31/12/25"
+}
