@@ -1,7 +1,7 @@
 {
-  "ad-link":      "https://www.youtube.com/@Tomiaz",
-  "ad-alt":       "Visita el canal de tomiaz",
-  "ad-image":     "https://yt3.googleusercontent.com/6hqWJNMoG7aKanwoUUO8nHJ-RJxgiPQnIBn34lPvNkp2TSoAad74Syplqacu2c3dywQ5OuVdAw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+  "ad-link":      "/help",
+  "ad-alt":       "¡Añade tu propio anuncio!",
+  "ad-image":     "https://i.ibb.co/ksmLPP4R/banner.png",
   "ad-blank":     true,
-  "ad-limit-day": "31/12/25"
+  "ad-limit-day": "31/12/26"
 }
